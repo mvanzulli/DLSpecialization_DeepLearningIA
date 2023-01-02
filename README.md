@@ -8,6 +8,7 @@ Contains Solutions and Notes for the [Deep Learning Specialization](https://www.
     - What is a Neural Network (NN) ? 
     - Why is deep learning taking off ? 
     - Supervised learning with NN
+    - Geoffrey Hinton interview. 
 
 - [Week 2]()
 
@@ -16,6 +17,7 @@ Contains Solutions and Notes for the [Deep Learning Specialization](https://www.
     - Gradient descent
     - Computational graph 
     - Python and vectorization
+    - Pieter Abbeel interview.
 
 - [Week 3]()
 
@@ -26,5 +28,16 @@ Contains Solutions and Notes for the [Deep Learning Specialization](https://www.
     - Gradient descent for NN
     - Back propagation computation and intuition 
     - Random weights initialization
+    - Ian Goodfellow interview. 
+
+- [Week4]()
+
+    - Deep L-layer NN
+    - Deep representations
+    - Forward and backward propagation 
+    - Parameters vs Hyperparameters
+    - Getting your matrix dimensions right
+    - What does NN have to do with the brain ? 
+
 
 
