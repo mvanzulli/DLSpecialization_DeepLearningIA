@@ -41,3 +41,18 @@ Contains Solutions and Notes for the [Deep Learning Specialization](https://www.
 
 
 
+## Course 2 : [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network/home)
+
+
+- [Week 1]()
+
+    - Train / Dev / Test sets 
+    - Bias and Variance
+    - Basic Recipe for machine learning (Idea -> Implementation -> Experiment )
+    - Regularization
+        - Dropout  
+        - Weight decay
+    - Normalizing inputs
+    - Vanishing/Exploding gradients
+    - Weight initialization for DNN
+    - Gradient checking
