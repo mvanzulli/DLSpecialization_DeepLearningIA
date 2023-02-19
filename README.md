@@ -114,5 +114,7 @@ Contains Solutions and Notes for the [Deep Learning Specialization](https://www.
     - YOLO algorithm
     - Semantic segmentation U-Net
     - U-Net architecture intuition 
+    
+#### [Certificate Of Completion](https://coursera.org/share/3845e95e0fc6228c7aa621b4fb44092a)
 
 
