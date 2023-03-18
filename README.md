@@ -118,3 +118,17 @@ Contains Solutions and Notes for the [Deep Learning Specialization](https://www.
 #### [Certificate Of Completion](https://coursera.org/share/3845e95e0fc6228c7aa621b4fb44092a)
 
 
+## Course 4: [Recurrent Neural Networks](https://www.coursera.org/learn/sequence-models/home)
+
+- [Week 1](https://www.coursera.org/learn/deep-neural-network/home/week/1)
+
+    - Sequence models
+    - Recurrent Neural Network model
+    - Back propagation through time
+    - Types of RNNs
+    - Language Models and Sequence Generation 
+    - Vanishing gradient with RNNs
+    - Gated Recurrent Unit (GRU)
+    - Long Short Term Memory (LSTM)
+    - Bidirectional RNN
+    - Deep RNNs 
