@@ -132,3 +132,28 @@ Contains Solutions and Notes for the [Deep Learning Specialization](https://www.
     - Long Short Term Memory (LSTM)
     - Bidirectional RNN
     - Deep RNNs 
+
+- [Week 2](https://www.coursera.org/learn/deep-neural-network/home/week/2)
+
+    - Sequence models
+    - Recurrent Neural Network model
+    - Back propagation through time
+    - Types of RNNs
+    - Language Models and Sequence Generation 
+    - Vanishing gradient with RNNs
+    - Gated Recurrent Unit (GRU)
+    - Long Short Term Memory (LSTM)
+    - Bidirectional RNN
+    - Deep RNNs 
+
+- [Week 3](https://www.coursera.org/learn/deep-neural-network/home/week/3)
+
+    - Word Representation. 
+    - Using Word Embeddings. 
+    - Properties of Word Embeddings. 
+    - Embedding Matrix. 
+    - Word2Vec
+    - Negative Sampling
+    - GloVe Word Vectors
+    - Sentiment Classification 
+    - Debiasing word embeddings
