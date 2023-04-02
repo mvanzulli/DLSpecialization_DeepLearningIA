@@ -135,19 +135,6 @@ Contains Solutions and Notes for the [Deep Learning Specialization](https://www.
 
 - [Week 2](https://www.coursera.org/learn/deep-neural-network/home/week/2)
 
-    - Sequence models
-    - Recurrent Neural Network model
-    - Back propagation through time
-    - Types of RNNs
-    - Language Models and Sequence Generation 
-    - Vanishing gradient with RNNs
-    - Gated Recurrent Unit (GRU)
-    - Long Short Term Memory (LSTM)
-    - Bidirectional RNN
-    - Deep RNNs 
-
-- [Week 3](https://www.coursera.org/learn/deep-neural-network/home/week/3)
-
     - Word Representation. 
     - Using Word Embeddings. 
     - Properties of Word Embeddings. 
@@ -157,3 +144,16 @@ Contains Solutions and Notes for the [Deep Learning Specialization](https://www.
     - GloVe Word Vectors
     - Sentiment Classification 
     - Debiasing word embeddings
+
+- [Week 3](https://www.coursera.org/learn/deep-neural-network/home/week/3)
+
+    - Basic Models
+    - Beam search
+    - Refinements to beam search. 
+    - Error analysis in beam search.
+    - Bleu Score
+    - Attention Model intuition
+    - Attention Model.
+    - Speach Recognition
+    - Trigger word detection. 
+
