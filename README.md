@@ -157,3 +157,9 @@ Contains Solutions and Notes for the [Deep Learning Specialization](https://www.
     - Speach Recognition
     - Trigger word detection. 
 
+- [Week 4](https://www.coursera.org/learn/deep-neural-network/home/week/4)
+
+    - Transformers network intuition.
+    - Self-Attention
+    - Multi-head Attention.
+    - Transformer NN.
